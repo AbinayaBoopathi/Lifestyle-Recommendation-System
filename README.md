@@ -1,5 +1,6 @@
 # Lifestyle-Recommendation-System
 The primary goal of our project is to revolutionize personal health monitoring through the development of a comprehensive mobile application. By seamlessly integrating vital sign and activity inputs, leveraging machine learning algorithms such as Logistic Regression and Random Forest, and utilizing Gradio for an intuitive user interface, our system aims to empower users with personalized insights into their overall well-being. The ultimate objective is to assist users in making informed decisions about their lifestyle and health habits, fostering a positive impact on their health journey.
+
 ![Healthy-1](https://github.com/AbinayaBoopathi/Lifestyle-Recommendation-System/assets/114607378/44b05e86-20e4-487c-9f12-2cc959f99762)
 
 ##Table of contents
@@ -42,8 +43,7 @@ An intuitive platform that serves as the user interface, facilitating the input 
 
 ##Flowchart
 
-![WhatsApp Image 2024-01-31 at 14 57 01_7b9ec283](https://github.com/AbinayaBoopathi/Lifestyle-Recommendation-System/assets/114607378/3abccf9f-0a1d-41de-9603-65dd7f1e5648)
-
+![Screenshot 2024-01-31 155354](https://github.com/AbinayaBoopathi/Lifestyle-Recommendation-System/assets/114607378/eaf72459-402e-45de-8816-ba41e3ce8145)
 
 ##Key Components
 
