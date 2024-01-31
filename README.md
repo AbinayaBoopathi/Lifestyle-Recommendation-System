@@ -1,7 +1,6 @@
 # Lifestyle-Recommendation-System
 The primary goal of our project is to revolutionize personal health monitoring through the development of a comprehensive mobile application. By seamlessly integrating vital sign and activity inputs, leveraging machine learning algorithms such as Logistic Regression and Random Forest, and utilizing Gradio for an intuitive user interface, our system aims to empower users with personalized insights into their overall well-being. The ultimate objective is to assist users in making informed decisions about their lifestyle and health habits, fostering a positive impact on their health journey.
-![67d21ed88e1c36a531cf39955c490779](https://github.com/AbinayaBoopathi/Lifestyle-Recommendation-System/assets/114607378/cc325a86-81c6-4806-beaf-8621aefd5234)
-
+![Healthy-1](https://github.com/AbinayaBoopathi/Lifestyle-Recommendation-System/assets/114607378/44b05e86-20e4-487c-9f12-2cc959f99762)
 
 ##Table of contents
 
@@ -34,6 +33,7 @@ To ensure the scalability and adaptability of our health monitoring system, we l
 ##oneAPI Optimization
 
 Optimizing our system using oneAPI involves enhancing performance through parallel processing and hardware acceleration. By leveraging oneAPI, we ensure that our health monitoring application is not only efficient but also adaptable to different computing environments.
+![Screenshot 2024-01-31 153453](https://github.com/AbinayaBoopathi/Lifestyle-Recommendation-System/assets/114607378/25083a4a-15e1-41f6-a048-ff14de23f57b)
 
 
 ##Proposed Systems
@@ -88,8 +88,8 @@ The interface provides real-time feedback, instantly displaying the model's clas
 ##Gradio Interface
 
 Enhances user experience by providing an intuitive platform for inputting health data and receiving personalized suggestions.
-
-
+![Screenshot 2024-01-31 154248](https://github.com/AbinayaBoopathi/Lifestyle-Recommendation-System/assets/114607378/7cfd30a2-4286-4f78-9e28-67f215174056)
+![Screenshot 2024-01-31 154353](https://github.com/AbinayaBoopathi/Lifestyle-Recommendation-System/assets/114607378/90d90d34-d677-4ecd-a19d-915aa64050ed)
 
 
 ###Health Suggetion:
@@ -100,11 +100,12 @@ Users receive a personalized health report within the mobile application. The ou
 For a comprehensive understanding of the system, we provide a detailed video explanation. This video walks users through the features, functionalities, and benefits of our health monitoring application, showcasing its transformative capabilities.
 
 
+https://github.com/AbinayaBoopathi/Lifestyle-Recommendation-System/assets/114607378/3e9e40e4-0c39-4fda-898f-068d525394ef
 
 
-##Results and Discussion
+##Acknowledgments
 
-Upon implementation, our system has demonstrated its effectiveness in providing personalized health insights and suggestions. User feedback and ongoing discussions contribute to refining the system, ensuring it remains a valuable companion on each user's health journey. The results and discussions will continue to shape the system's evolution, making it an even more impactful tool for health monitoring and lifestyle improvement.
+The project uses the Gradio library for creating an interactive interface. Special thanks to the contributors and maintainers of the open-source libraries used in this project.
 
 
 
