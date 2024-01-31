@@ -44,7 +44,8 @@ To ensure the scalability and adaptability of our health monitoring system, we l
 
 Optimizing our system using oneAPI involves enhancing performance through parallel processing and hardware acceleration. By leveraging oneAPI, we ensure that our health monitoring application is not only efficient but also adaptable to different computing environments.
 
-![Screenshot 2024-01-31 162006](https://github.com/AbinayaBoopathi/Lifestyle-Recommendation-System/assets/114607378/f1871ef2-3776-466d-a42b-308e52d7007e)
+![Screenshot 2024-01-31 191147](https://github.com/AbinayaBoopathi/Lifestyle-Recommendation-System/assets/114607378/810c54ba-a485-4f33-a998-39d74fe94e99)
+
 
 ## Proposed Systems
 
