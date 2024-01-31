@@ -1,7 +1,7 @@
 # Lifestyle-Recommendation-System
-We Developed the Life Style Recommendation System. This will give the suggetion based on user age, blood pressure, stress level, heart rate and activity level. This project is developed using Machine Learning model and Gradio User Interface.
-
 The primary goal of our project is to revolutionize personal health monitoring through the development of a comprehensive mobile application. By seamlessly integrating vital sign and activity inputs, leveraging machine learning algorithms such as Logistic Regression and Random Forest, and utilizing Gradio for an intuitive user interface, our system aims to empower users with personalized insights into their overall well-being. The ultimate objective is to assist users in making informed decisions about their lifestyle and health habits, fostering a positive impact on their health journey.
+![67d21ed88e1c36a531cf39955c490779](https://github.com/AbinayaBoopathi/Lifestyle-Recommendation-System/assets/114607378/cc325a86-81c6-4806-beaf-8621aefd5234)
+
 
 ##Table of contents
 
@@ -28,7 +28,8 @@ Gather a diverse range of health-related inputs, including vital signs (heart ra
 
 To ensure the scalability and adaptability of our health monitoring system, we leverage oneAPI, a unified programming model. This allows us to efficiently harness the computing power of various architectures, providing a seamless user experience across different devices.
 
-![image](https://github.com/AbinayaBoopathi/Lifestyle-Recommendation-System/assets/114607378/5d2ac863-d1d4-46ff-ab43-0ca43414d933)
+![861_logo-oneapi-rwd](https://github.com/AbinayaBoopathi/Lifestyle-Recommendation-System/assets/114607378/07c36d5d-60fa-4c5a-9856-2afe86fd4fca)
+
 
 ##oneAPI Optimization
 
