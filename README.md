@@ -39,7 +39,7 @@ Gather a diverse range of health-related inputs, including vital signs (heart ra
 
  ## oneAPI
 
-To ensure the scalability and adaptability of our health monitoring system, we leverage oneAPI, a unified programming model. This allows us to efficiently harness the computing power of various architectures, providing a seamless user experience across different devices.
+Intel’s oneAPI is an open, accessible and standards-based programming system that enables developer engagement and innovation across multiple hardware architectures, including CPUs, GPUs, FPGAs, AI accelerators, and more. These tools all have very different properties and are thus used for various operations–which oneAPI attempts to simplify by unifying them under one model. 
 
 ![861_logo-oneapi-rwd](https://github.com/AbinayaBoopathi/Lifestyle-Recommendation-System/assets/114607378/07c36d5d-60fa-4c5a-9856-2afe86fd4fca)
 
