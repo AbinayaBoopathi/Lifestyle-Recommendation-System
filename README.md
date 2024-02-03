@@ -3,6 +3,11 @@ The primary goal of our project is to revolutionize personal health monitoring t
 
 ![Healthy-1](https://github.com/AbinayaBoopathi/Lifestyle-Recommendation-System/assets/114607378/44b05e86-20e4-487c-9f12-2cc959f99762)
 
+## Video
+
+"C:\Users\kasth\Downloads\lifestyle hub.mp4"
+
+
 ## Table of contents
 
 Objectives
