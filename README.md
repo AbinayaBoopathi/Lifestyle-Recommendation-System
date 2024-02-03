@@ -113,9 +113,7 @@ Users receive a personalized health report within the mobile application. The ou
 
 For a comprehensive understanding of the system, we provide a detailed video explanation. This video walks users through the features, functionalities, and benefits of our health monitoring application, showcasing its transformative capabilities.
 
-
-https://github.com/AbinayaBoopathi/Lifestyle-Recommendation-System/assets/114607378/3e9e40e4-0c39-4fda-898f-068d525394ef
-
+https://github.com/AbinayaBoopathi/Lifestyle-Recommendation-System/assets/114607378/dd83e3ff-f7eb-43b8-a623-89f8bda3ce3d
 
 ## Acknowledgments
 
