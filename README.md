@@ -25,9 +25,7 @@ Output
 
 Video Explanation
 
-Setup
-
-Results and Discussion
+Acknowledgement
 
 ## Introduction
 
@@ -115,7 +113,7 @@ For a comprehensive understanding of the system, we provide a detailed video exp
 
 https://github.com/AbinayaBoopathi/Lifestyle-Recommendation-System/assets/114607378/dd83e3ff-f7eb-43b8-a623-89f8bda3ce3d
 
-## Acknowledgments
+## Acknowledgement
 
 The project uses the Gradio library for creating an interactive interface. Special thanks to the contributors and maintainers of the open-source libraries used in this project.
 
